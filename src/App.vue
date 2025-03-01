@@ -7,7 +7,6 @@
 <script>
 import AddTaskForm from './components/AddTaskForm.vue';
 import TaskList from './components/TaskList.vue';
-import taskServise from './services/taskServise';
 
 
 export default {
